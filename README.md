@@ -10,7 +10,7 @@ Data source: https://omniweb.gsfc.nasa.gov/form/omni_min.html
 | :--- | :--- | :--- |
 | **Year** | Year of observation | Year |
 | **Day** | Day of the year (Decimal Day / DOY) | Day (1-366) |
-| **Hour** | hour of observation (Universal Time) | Hour (0-23) |
+| **Hour** | Hour of observation (Universal Time) | Hour (0-23) |
 | **Minute** | Minute of observation | Minute (0-59) |
 | **Field_Mag_average, nT** | Scalar background magnetic field magnitude ($|B|$) | nT (Nanotesla) |
 | **Bz_GSE, nT** | Z-component of the Interplanetary Magnetic Field (IMF) in GSE coordinates | nT (Nanotesla) |
