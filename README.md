@@ -1,10 +1,13 @@
 # SpaceWeather-Satellites
 
-Data source: https://omniweb.gsfc.nasa.gov/form/omni_min.html
+# Data sources
+
+OMNIWeb: High Resolution OMNI: https://omniweb.gsfc.nasa.gov/form/omni_min.html
 
 Solar Flares dataset: https://www.lmsal.com/solarsoft/latest_events_archive.html
 
 GCAT: General Catalog of Artificial Space Objects: https://planet4589.org/space/gcat/web/sites/index.html
+
 
 # Space Weather Data Analysis (OMNI Dataset)
 
